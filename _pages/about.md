@@ -27,8 +27,10 @@ Please contact me if you are interested in my research and I am open to any acad
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* I attended 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) in Nashville, USA.
+- *2024.06* I attended 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, The Republic of Korea.
+- *2024.03* I attended 2024 16th International Conference on Computer and Automation Engineering (ICCAE) in Melbourne, Australia.
+- *2023.06* I received my Bachelor of Engineering degree in Vehicle Engineering (Automobile) from Tongji University with the honor of Shanghai Outstanding Graduate!
 
 # 📝 Publications & Preprints
 
