@@ -32,7 +32,9 @@ Please contact me if you are interested in my research and I am open to any acad
 
 # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)
+**Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen
+IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
 
 # 🎖 Honors and Awards
 - *2024.12* National Scholarship for Graduate Students (Top 1%)
