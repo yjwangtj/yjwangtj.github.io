@@ -12,7 +12,7 @@ Da weiß ich die Stürme schon und bin erregt wie das Meer.
 - larswang@tongji.edu.cn  
 - [Google Scholar](https://scholar.google.com/citations?user=FpqcgwEAAAAJ&hl=zh-CN)
 
-简单自我介绍一段……
+简单自我介绍一段
 
 # News
 - 2025.10: ……（一条新闻）
