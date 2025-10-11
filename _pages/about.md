@@ -21,7 +21,7 @@ I am currently a Ph.D. student (Integrated Master's-PhD Program) of the Institut
 
 I obtained my Bachelor of Engineering degree in Vehicle Engineering (Automobile) from [School of Automotive Studies](https://auto.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in June 2023, also advised by Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm).
 
-My primary research centers on autonomous driving, particularly in decision-making, trajectory-planning and Vision-Language Models.
+My primary research centers on autonomous driving, particularly in decision-making, trajectory-planning and Vision-Language Models. I am proficient in using English and German for communication and academic research, with the following language proficiency credentials: CET-6 (College English Test Band 6) with a score of 670, IELTS (International English Language Testing System) with a score of 7.5, and TestDaF (Test Deutsch als Fremdsprache) with a score of 18.
 
 Please contact me if you are interested in my research and I am open to any academic collaboration!
 
