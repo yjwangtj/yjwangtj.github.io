@@ -32,8 +32,8 @@ Please contact me if you are interested in my research and I am open to any acad
 
 # 📝 Publications 
 
-- [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)\
-  **Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen\
+- [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)<br>
+  **Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen<br>
   IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
 
 # 🎖 Honors and Awards
