@@ -33,7 +33,7 @@ Please contact me if you are interested in my research and I am open to any acad
 # 📝 Publications & Preprints
 
 - [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)<br>**Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen<br>IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
-- []
+- [Rac3: Retrieval-augmented corner case comprehension for autonomous driving with vision-language models](https://arxiv.org/abs/2412.11050)
 
 # 🎖 Honors and Awards
 - *2024.12* National Scholarship for Graduate Students (Top 1%)
