@@ -54,14 +54,12 @@ Please contact me if you are interested in my research and I am open to any acad
 - *2020.11* 3rd Prize for National English Competition for College Students
 - *2020.03* Undergraduate Social Activity Scholarship of Tongji University
 - *2020.03* 3rd Prize for Tongji Outstanding Undergraduate Scholarship
+- *2018.06* Outstanding Graduate of Senior High Schools in Jilin Province
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2023.09 - now*, Vehicle Engineering (Integrated Master's-PhD Program), School of Automotive Studies, Tongji University
+- *2018.09 - 2023.06*, Vehicle Engineering (Automobile) (5-year program), School of Automotive Studies, Tongji University
+- *2015.09 - 2018.06*, High School Attached to Northeast Normal University
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.08*, Intern at Bureau of Commerce of Kashgar Prefecture, Xinjiang Uygur Autonomous Region, China
+- *2022.06 - 2022.07*, Intern at Department of Product Management, [FAW Car Co., Ltd](https://www.faw.com/) （一汽奔腾轿车股份有限公司）, China
