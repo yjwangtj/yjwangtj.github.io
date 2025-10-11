@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student of the Institute of Intelligent Vehicles at Tongji University under the supervision of Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm) with School of Automotive Studies.
+I am currently a Ph.D. student (Integrated Master's-PhD Program) of the Institute of Intelligent Vehicles at [Tongji University](https://www.tongji.edu.cn/) under the supervision of Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm) with [School of Automotive Studies](https://auto.tongji.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I obtained my Bachelor of Engineering degree in Vehicle Engineering (Automobile) from [School of Automotive Studies](https://auto.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in June 2023, also advised by Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm).
+
+My primary research centers on autonomous driving, particularly in decision-making, trajectory-planning and Vision-Language Models.
+
+Please contact me if you are interested in my research and I am open to any academic collaboration!
 
 
 # 🔥 News
@@ -28,23 +32,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* National Scholarship for Graduate Students (Top 1%)
+- *2024.12* Tongji Outstanding Graduate Student Honor
+- *2024.05* Outstanding Automobile Student of School of Automotive Studies, Tongji University
+- *2023.11* Annual Outstanding Innovative Leader of 2023 Innovation Youth Leaders Summit of Hundreds of Universities
+- *2023.07* 6th Place in Shell Eco-Marathon Asia Pacific and the Middle East 2023 (Indonesia)
+- *2023.05* Shanghai Outstanding Graduate Honor
+- *2022.12* Undergraduate Social Activity Scholarship of Tongji University
+- *2022.12* National Scholarship for Undergraduate Students (Top 1%)
+- *2022.09* 2nd Place in Shell Eco-Marathon China 2023
+- *2022.08* 3rd Prize for the 15th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2022.01* Tongji Outstanding Undergraduate Student Honor
+- *2021.12* Weichai Scholarship (1st Prize for Tongji Outstanding Undergraduate Scholarship)
+- *2021.01* Tongji Outstanding Undergraduate Student Honor
+- *2020.12* Undergraduate Social Activity Scholarship of Tongji University
+- *2020.12* Huate Scholarship (2nd Prize for Tongji Outstanding Undergraduate Scholarship)
+- *2020.11* 2nd Prize for the 3rd Intelligent Manufacturing Competition of the 2020 China College Students Mechanical Engineering Innovation and Creativity Competition
+- *2020.11* 3rd Prize for National English Competition for College Students
+- *2020.03* Undergraduate Social Activity Scholarship of Tongji University
+- *2020.03* 3rd Prize for Tongji Outstanding Undergraduate Scholarship
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
