@@ -33,7 +33,7 @@ Please contact me if you are interested in my research and I am open to any acad
 - *2023.10* I delivered a speech as a student representative at the [20th Anniversary Celebration of the Founding of the School of Automotive Studies, Tongji University](https://news.tongji.edu.cn/info/1003/85369.htm)!
 - *2023.06* I received my Bachelor of Engineering degree in Vehicle Engineering (Automobile) from Tongji University with the honor of Shanghai Outstanding Graduate!
 
-# 📝 Publications & Preprints
+# 📝 Publications and Preprints
 
 - [KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](https://arxiv.org/abs/2509.02966)<br>**Yujin Wang**, Tianyi Wang, Quanfeng Liu, Wenxian Fan, Junfeng Jiao, Christian Claudel, Yunbing Yan, Bingzhao Gao*, Jianqiang Wang, Hong Chen<br>Preprint
 - [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)<br>**Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen<br>IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
