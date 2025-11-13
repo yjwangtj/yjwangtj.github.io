@@ -27,6 +27,7 @@ Please contact me if you are interested in my research and I am open to any acad
 
 
 # 🔥 News
+- *2025.11* [One paper](https://arxiv.org/abs/2412.11050) is accepted by IEEE Transactions on Multimedia (Q1, IF: 9.7)!
 - *2025.06* I attended 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) in Nashville, USA.
 - *2024.06* I attended 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, The Republic of Korea.
 - *2024.03* I attended 2024 16th International Conference on Computer and Automation Engineering (ICCAE) in Melbourne, Australia.
@@ -37,7 +38,7 @@ Please contact me if you are interested in my research and I am open to any acad
 
 - [KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](https://arxiv.org/abs/2509.02966)<br>**Yujin Wang**, Tianyi Wang, Quanfeng Liu, Wenxian Fan, Junfeng Jiao, Christian Claudel, Yunbing Yan, Bingzhao Gao*, Jianqiang Wang, Hong Chen<br>Preprint
 - [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)<br>**Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu*, Bingzhao Gao, Hong Chen<br>IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
-- [Rac3: Retrieval-augmented corner case comprehension for autonomous driving with vision-language models](https://arxiv.org/abs/2412.11050)<br>**Yujin Wang**, Quanfeng Liu, Jiaqi Fan, Jinlong Hong, Hongqing Chu, Mengjian Tian*, Bingzhao Gao*, Hong Chen<br>Preprint
+- [Rac3: Retrieval-augmented corner case comprehension for autonomous driving with vision-language models](https://arxiv.org/abs/2412.11050)<br>**Yujin Wang**, Quanfeng Liu, Jiaqi Fan, Jinlong Hong, Hongqing Chu, Mengjian Tian*, Bingzhao Gao*, Hong Chen<br>IEEE Transactions on Multimedia (Q1, IF: 9.7), Accepted.
 - [Drive as Veteran: Fine-tuning of an Onboard Large Language Model for Highway Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10588851)<br>**Yujin Wang**, Zhaoyan Huang, Quanfeng Liu, Yutong Zheng, Jinlong Hong*, Junyi Chen, Lu Xiong, Bingzhao Gao, Hong Chen<br>2024 IEEE Intelligent Vehicles Symposium (IV)
 - [Path Planning for Autonomous Vehicle Turning at Intersections with Signal Temporal Logic Specifications](https://ieeexplore.ieee.org/abstract/document/10569917)<br>**Yujin Wang**, Zhaoyan Huang, Shiying Dong, Hongqing Chu, Xiang Yin, Bingzhao Gao*<br>2024 16th International Conference on Computer and Automation Engineering (ICCAE)
 - [ChatSTL: A Framework of Translation from Natural Language to Signal Temporal Logic Specifications for Autonomous Vehicle Navigation out of Blocked Scenarios](https://ieeexplore.ieee.org/document/10569281)<br>**Yujin Wang**, Zhaoyan Huang, Shiying Dong, Hongqing Chu, Xiang Yin, Bingzhao Gao*<br>2024 16th International Conference on Computer and Automation Engineering (ICCAE)
