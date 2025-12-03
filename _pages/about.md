@@ -55,7 +55,7 @@ Please contact me if you are interested in my research and I am open to any acad
 - *2023.05* Shanghai Outstanding Graduate Honor
 - *2022.12* Undergraduate Social Activity Scholarship of Tongji University
 - *2022.12* National Scholarship for Undergraduate Students (Top 1%)
-- *2022.09* 2nd Place in Shell Eco-Marathon China 2023
+- *2022.09* 2nd Place in Shell Eco-Marathon China 2022
 - *2022.08* 3rd Prize for the 15th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2022.01* Tongji Outstanding Undergraduate Student Honor
 - *2021.12* Weichai Scholarship (1st Prize for Tongji Outstanding Undergraduate Scholarship)
