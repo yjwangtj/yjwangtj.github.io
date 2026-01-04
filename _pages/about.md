@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student (Integrated Master's-PhD Program) of the Institute of Intelligent Vehicles at [Tongji University](https://www.tongji.edu.cn/) under the supervision of Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm) with [College of Automotive and Energy](https://auto.tongji.edu.cn/).
+I am currently a Ph.D. student (Integrated Master's-PhD Program) of the Institute of Intelligent Vehicles at [Tongji University](https://www.tongji.edu.cn/) under the supervision of Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm) with [College of Automotive and Energy](https://auto.tongji.edu.cn/) (former: School of Automotive Studies).
 
 I obtained my Bachelor of Engineering degree in Vehicle Engineering (Automobile) from [School of Automotive Studies](https://auto.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in June 2023, also advised by Professor [Bingzhao Gao](https://auto.tongji.edu.cn/info/1165/7634.htm).
 
