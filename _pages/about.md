@@ -27,7 +27,7 @@ Please contact me if you are interested in my research and I am open to any acad
 
 
 # 🔥 News
-- *2026.01* [One paper](https://arxiv.org/abs/2509.02966) is accepted by Communications in Transporation Research (Q1, IF: 14.5)!
+- *2026.01* [One paper](https://arxiv.org/abs/2509.02966) is accepted by Communications in Transportation Research (Q1, IF: 14.5)!
 - *2025.11* [One paper](https://arxiv.org/abs/2412.11050) is accepted by IEEE Transactions on Multimedia (Q1, IF: 9.7)!
 - *2025.06* I attended 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) in Nashville, USA.
 - *2024.06* I attended 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, The Republic of Korea.
@@ -37,7 +37,7 @@ Please contact me if you are interested in my research and I am open to any acad
 
 # 📝 Publications and Preprints
 
-- [KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](https://arxiv.org/abs/2509.02966)<br>**Yujin Wang**, Tianyi Wang, Quanfeng Liu, Wenxian Fan, Junfeng Jiao, Christian Claudel, Yunbing Yan, Bingzhao Gao, Jianqiang Wang, Hong Chen<br>Communications in Transporation Research (Q1, IF: 14.5), Accepted.
+- [KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models](https://arxiv.org/abs/2509.02966)<br>**Yujin Wang**, Tianyi Wang, Quanfeng Liu, Wenxian Fan, Junfeng Jiao, Christian Claudel, Yunbing Yan, Bingzhao Gao, Jianqiang Wang, Hong Chen<br>Communications in Transportation Research (Q1, IF: 14.5), Accepted.
 - [RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving](https://ieeexplore.ieee.org/document/11147944)<br>**Yujin Wang**, Quanfeng Liu, Zhengxin Jiang, Tianyi Wang, Junfeng Jiao, Hongqing Chu, Bingzhao Gao, Hong Chen<br>IEEE/CVF Computer Vision and Pattern Recognition Conference Workshops 2025
 - [Rac3: Retrieval-augmented corner case comprehension for autonomous driving with vision-language models](https://arxiv.org/abs/2412.11050)<br>**Yujin Wang**, Quanfeng Liu, Jiaqi Fan, Jinlong Hong, Hongqing Chu, Mengjian Tian, Bingzhao Gao, Hong Chen<br>IEEE Transactions on Multimedia (Q1, IF: 9.7), Accepted.
 - [Drive as Veteran: Fine-tuning of an Onboard Large Language Model for Highway Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10588851)<br>**Yujin Wang**, Zhaoyan Huang, Quanfeng Liu, Yutong Zheng, Jinlong Hong, Junyi Chen, Lu Xiong, Bingzhao Gao, Hong Chen<br>2024 IEEE Intelligent Vehicles Symposium (IV)
