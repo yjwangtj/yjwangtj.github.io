@@ -27,6 +27,7 @@ Please contact me if you are interested in my research and I am open to any acad
 
 
 # 🔥 News
+- *2026.05* I started an internship at Bosch Research under the supervision of Dr. [Zhongzhan Huang](https://dedekinds.github.io/), focusing on VLA in autonomous driving!
 - *2026.01* [One paper](https://arxiv.org/abs/2509.02966) is accepted by Communications in Transportation Research (Q1, IF: 14.5)!
 - *2025.11* [One paper](https://ieeexplore.ieee.org/document/11433078) is accepted by IEEE Transactions on Multimedia (Q1, IF: 9.7)!
 - *2025.06* I attended 2025 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) in Nashville, USA.
@@ -76,5 +77,6 @@ Please contact me if you are interested in my research and I am open to any acad
 - *2015.09 - 2018.06*, High School Attached to Northeast Normal University
 
 # 💻 Internships
+- *2026.05 - 2026.10*, Intern at CR/RAI2-AP, Bosch Research, Shanghai, China
 - *2024.07 - 2024.08*, Intern at Bureau of Commerce of Kashgar Prefecture, Xinjiang Uygur Autonomous Region, China
 - *2022.06 - 2022.07*, Intern at Department of Product Management, [FAW Car Co., Ltd](https://www.faw.com/) （一汽奔腾轿车股份有限公司）, China
