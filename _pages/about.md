@@ -1,3 +1,4 @@
+'''
 ---
 permalink: /
 title: ""
@@ -80,3 +81,4 @@ Please contact me if you are interested in my research and I am open to any acad
 - *2026.05 - 2026.10*, Intern at CR/RAI2-AP, Bosch Research, Shanghai, China
 - *2024.07 - 2024.08*, Intern at Bureau of Commerce of Kashgar Prefecture, Xinjiang Uygur Autonomous Region, China
 - *2022.06 - 2022.07*, Intern at Department of Product Management, [FAW Car Co., Ltd](https://www.faw.com/) （一汽奔腾轿车股份有限公司）, China
+'''
